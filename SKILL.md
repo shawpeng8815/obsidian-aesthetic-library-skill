@@ -1,5 +1,5 @@
 ---
-name: obsidian-aesthetic-library
+name: obsidian-aesthetic-library-skill
 description: Build, initialize, maintain, repair, or package a lightweight Obsidian design aesthetic library with Bases galleries, studio subscriptions, a permanent project baseline, read status, controlled tags, AI editorial review, and weekly featured issues. Use when Codex is asked to create a design inspiration library or studio-watching system, migrate or rename such a library, diagnose unrelated Base cards or missing images, process weekly design candidates, or turn this workflow into a reusable local vault structure.
 ---
 
