@@ -36,9 +36,44 @@ A recurring task requires explicit user authorization and setup. Installing the 
 
 The starter catalog contains 52 studios across branding, graphic design, typography, publishing, motion, digital experiences, spatial design, and experimental practice. It is an editable starting point; source availability reflects the audit date stored in the catalog.
 
-### Global pilot
+### North America
 
 - [Pentagram](https://www.pentagram.com/): A partner-owned independent design consultancy spanning brand strategy, identity, publishing, digital experiences, motion, and spatial design.
+
+- [PORTO ROCHA](https://www.portorocha.com/): A New York and London strategy and design agency balancing rigor and emotion in major rebrands and independent cultural work.
+- [Actual Source](https://actualsource.work/): A studio extending strategy, creative direction, and identity into publishing, websites, packaging, clothing, and physical spaces.
+- [DIA Studio](https://www.dia.studio/): A design, research, and innovation studio focused on kinetic identities, typographic systems, and generative design tools.
+- [Order](https://order.design/): A brand identity office emphasizing reasoned decisions, standards, archives, and systematic execution.
+- [Center](https://center.design/): A Brooklyn brand team creating identity, packaging, strategy, motion, 3D, and web work for consumer brands.
+- [Other Means](https://othermeans.us/): A Brooklyn graphic design studio serving cultural institutions through typographic identities, publishing, exhibitions, signage, and websites.
+- [Sunday Afternoon](https://sundayafternoon.us/): A New York brand and artist-management agency combining strategy and identity with campaigns, typography, photography, motion, and film.
+- [Wedge](https://www.wedge.work/): A Montreal and Los Angeles agency building distinctive brands, often in food, consumer goods, and lifestyle.
+- [Caserne](https://www.caserne.com/): A Montreal studio organizing brands around story and purpose, from positioning and naming to complete visual systems.
+- [Mouthwash Studio](https://mouthwash.studio/): A studio working across art, architecture, fashion, technology, and sustainability through strategy, visual design, motion, and digital experiences.
+- [&Walsh](https://andwalsh.com/): A New York brand and advertising agency covering strategy, design, art direction, campaigns, social content, and final image production.
+- [Special Offer](https://www.specialoffer.inc/): A creative technology company using digital experiences to connect technology, interaction design, and internet subcultures.
+- [Gander](https://takeagander.com/): A New York branding and graphic design studio shaping characterful brands through strategy, packaging, websites, and art direction.
+- [Polymode](https://www.polymode.studio/): A minority- and queer-owned studio serving cultural and social justice work through research, publishing, identity, exhibitions, and education.
+- [Landscape](https://thisislandscape.com/): A multidisciplinary studio using brand strategy, design systems, and communications to support social, environmental, scientific, technological, and cultural change.
+
+### Europe
+
+- [Studio Feixen](https://www.studiofeixen.ch/): A Swiss multidisciplinary studio extending visual concepts into graphic design, type, animation, products, and spaces.
+- [Studio Yukiko](https://y-u-k-i-k-o.com/): A Berlin creative agency providing direction, visual development, brand strategy, and concepts for commercial and cultural clients.
+- [Studio Nari](https://www.studionari.co.uk/): A culture-led brand studio building identities, experiences, and expressions that people can feel part of.
+- [How&How](https://how.studio/): A London and Los Angeles agency combining strategy, design, and digital experiences to build recognizable brands.
+- [Studio Kiln](https://www.studio-kiln.com/): A studio creating living brands through identity, storytelling, and digital experiences for culture, entertainment, and technology.
+- [OMSE](https://www.omse.co/): An independent London studio building clear, meaningful brands that connect organizations with their audiences.
+- [Studio Airport](https://www.studioairport.nl/): An interdisciplinary studio combining strategy and creativity through prototyping, storytelling, film, and experiential work.
+- [Barkas](https://barkas.com/): An independent Copenhagen creative company building brands across identity, communications, and digital touchpoints.
+- [Bielke&Yang](https://bielkeyang.com/): An Oslo agency focused on identity and long-term brand building, including websites, storytelling, and place-making.
+- [Studio Mut](https://www.studiomut.com/): An Italian graphic design studio creating identities, digital platforms, and publications while exploring motion and exhibitions.
+- [The Rodina](https://www.therodina.com/): An experimental practice between culture and technology using performance, games, and research to create visual and participatory environments.
+- [Offshore Studio](https://www.offshorestudio.ch/): A Zurich and Vienna collaborative practice researching editorial design, typography, image-making, and visual narratives.
+- [Badesaison](https://www.badesaison.ch/): A Zurich studio producing books, publications, posters, and identities, with extensions into web applications and spatial installations.
+- [Marcus Kraft](https://www.marcuskraft.com/): A Zurich visual communication studio combining strong narratives and typography across branding, publishing, exhibitions, packaging, signage, and digital work.
+- [Ohlman Consorti](https://www.ohlmanconsorti.com/): A Paris advertising and digital media consultancy specializing in art direction, imagery, typography, publishing, and websites.
+- [Koto](https://koto.com/): An international brand studio combining strategy, co-creation, and detailed execution across brand touchpoints.
 
 ### China
 
@@ -65,43 +100,6 @@ The starter catalog contains 52 studios across branding, graphic design, typogra
 - [UMA / design farm](https://beta.umamu.jp/): A practice addressing culture, welfare, and regional issues through graphics, spaces, exhibitions, and public-facing programs.
 - [LABORATORIES](https://www.labor-atories.com/): A Tokyo studio centered on art direction and visual communication across graphics, books, websites, and signage.
 - [we+](https://weplus.jp/): A contemporary design studio using research and experimentation to explore nature, society, and values overlooked by efficiency-driven systems.
-
-### Europe
-
-- [Studio Feixen](https://www.studiofeixen.ch/): A Swiss multidisciplinary studio extending visual concepts into graphic design, type, animation, products, and spaces.
-- [Studio Yukiko](https://y-u-k-i-k-o.com/): A Berlin creative agency providing direction, visual development, brand strategy, and concepts for commercial and cultural clients.
-- [Studio Nari](https://www.studionari.co.uk/): A culture-led brand studio building identities, experiences, and expressions that people can feel part of.
-- [How&How](https://how.studio/): A London and Los Angeles agency combining strategy, design, and digital experiences to build recognizable brands.
-- [Studio Kiln](https://www.studio-kiln.com/): A studio creating living brands through identity, storytelling, and digital experiences for culture, entertainment, and technology.
-- [OMSE](https://www.omse.co/): An independent London studio building clear, meaningful brands that connect organizations with their audiences.
-- [Studio Airport](https://www.studioairport.nl/): An interdisciplinary studio combining strategy and creativity through prototyping, storytelling, film, and experiential work.
-- [Barkas](https://barkas.com/): An independent Copenhagen creative company building brands across identity, communications, and digital touchpoints.
-- [Bielke&Yang](https://bielkeyang.com/): An Oslo agency focused on identity and long-term brand building, including websites, storytelling, and place-making.
-- [Studio Mut](https://www.studiomut.com/): An Italian graphic design studio creating identities, digital platforms, and publications while exploring motion and exhibitions.
-- [The Rodina](https://www.therodina.com/): An experimental practice between culture and technology using performance, games, and research to create visual and participatory environments.
-- [Offshore Studio](https://www.offshorestudio.ch/): A Zurich and Vienna collaborative practice researching editorial design, typography, image-making, and visual narratives.
-- [Badesaison](https://www.badesaison.ch/): A Zurich studio producing books, publications, posters, and identities, with extensions into web applications and spatial installations.
-- [Marcus Kraft](https://www.marcuskraft.com/): A Zurich visual communication studio combining strong narratives and typography across branding, publishing, exhibitions, packaging, signage, and digital work.
-- [Ohlman Consorti](https://www.ohlmanconsorti.com/): A Paris advertising and digital media consultancy specializing in art direction, imagery, typography, publishing, and websites.
-- [Koto](https://koto.com/): An international brand studio combining strategy, co-creation, and detailed execution across brand touchpoints.
-
-### North America
-
-- [PORTO ROCHA](https://www.portorocha.com/): A New York and London strategy and design agency balancing rigor and emotion in major rebrands and independent cultural work.
-- [Actual Source](https://actualsource.work/): A studio extending strategy, creative direction, and identity into publishing, websites, packaging, clothing, and physical spaces.
-- [DIA Studio](https://www.dia.studio/): A design, research, and innovation studio focused on kinetic identities, typographic systems, and generative design tools.
-- [Order](https://order.design/): A brand identity office emphasizing reasoned decisions, standards, archives, and systematic execution.
-- [Center](https://center.design/): A Brooklyn brand team creating identity, packaging, strategy, motion, 3D, and web work for consumer brands.
-- [Other Means](https://othermeans.us/): A Brooklyn graphic design studio serving cultural institutions through typographic identities, publishing, exhibitions, signage, and websites.
-- [Sunday Afternoon](https://sundayafternoon.us/): A New York brand and artist-management agency combining strategy and identity with campaigns, typography, photography, motion, and film.
-- [Wedge](https://www.wedge.work/): A Montreal and Los Angeles agency building distinctive brands, often in food, consumer goods, and lifestyle.
-- [Caserne](https://www.caserne.com/): A Montreal studio organizing brands around story and purpose, from positioning and naming to complete visual systems.
-- [Mouthwash Studio](https://mouthwash.studio/): A studio working across art, architecture, fashion, technology, and sustainability through strategy, visual design, motion, and digital experiences.
-- [&Walsh](https://andwalsh.com/): A New York brand and advertising agency covering strategy, design, art direction, campaigns, social content, and final image production.
-- [Special Offer](https://www.specialoffer.inc/): A creative technology company using digital experiences to connect technology, interaction design, and internet subcultures.
-- [Gander](https://takeagander.com/): A New York branding and graphic design studio shaping characterful brands through strategy, packaging, websites, and art direction.
-- [Polymode](https://www.polymode.studio/): A minority- and queer-owned studio serving cultural and social justice work through research, publishing, identity, exhibitions, and education.
-- [Landscape](https://thisislandscape.com/): A multidisciplinary studio using brand strategy, design systems, and communications to support social, environmental, scientific, technological, and cultural change.
 
 ## Requirements
 
