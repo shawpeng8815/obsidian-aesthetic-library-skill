@@ -1,4 +1,4 @@
 interface:
   display_name: "Obsidian 审美库"
   short_description: "建立可订阅、可筛选、可编辑精选的 Obsidian 设计审美库"
-  default_prompt: "使用 $obsidian-aesthetic-library 在指定 Obsidian Vault 中建立一套轻量的设计审美库。"
+  default_prompt: "使用 $obsidian-aesthetic-library-skill 在指定 Obsidian Vault 中建立一套轻量的设计审美库。"
