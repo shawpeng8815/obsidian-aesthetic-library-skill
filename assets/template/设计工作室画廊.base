@@ -1,0 +1,36 @@
+filters:
+  and:
+    - file.inFolder(this.file.folder + "/工作室")
+    - type == "design-studio"
+properties:
+  file.name:
+    displayName: 工作室
+  note.region:
+    displayName: 地区
+  note.positioning:
+    displayName: 一句话定位
+  note.observation_value:
+    displayName: 观察价值
+  note.method_traits:
+    displayName: 方法特征
+  note.media_structure:
+    displayName: 媒介结构
+  note.disciplines:
+    displayName: 关注方向
+  note.studio_intro:
+    displayName: 工作室简介
+  note.website:
+    displayName: 官网
+views:
+  - type: cards
+    name: 工作室画廊
+    order:
+      - file.name
+      - positioning
+      - observation_value
+      - method_traits
+      - media_structure
+    cardSize: medium
+    image: note.cover
+    imageFit: cover
+    imageAspectRatio: 16:9

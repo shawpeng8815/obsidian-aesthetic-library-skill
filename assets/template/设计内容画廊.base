@@ -1,0 +1,116 @@
+filters:
+  and:
+    - file.inFolder(this.file.folder + "/内容")
+properties:
+  file.name:
+    displayName: 内容
+  note.read:
+    displayName: 已读
+  note.studio:
+    displayName: 工作室
+  note.published_at:
+    displayName: 发布日期
+  note.source_url:
+    displayName: 原文
+  note.project_intro:
+    displayName: 项目导读
+  note.observation_focus:
+    displayName: 观察重点
+  note.discipline_tags:
+    displayName: 设计领域
+  note.concept_tags:
+    displayName: 概念标签
+  note.editorial_status:
+    displayName: 编辑状态
+  note.featured_issue:
+    displayName: 精选期次
+  note.featured_order:
+    displayName: 精选排序
+  note.editor_comment:
+    displayName: 编辑短评
+views:
+  - type: cards
+    name: 内容画廊
+    order:
+      - file.name
+      - studio
+      - project_intro
+      - observation_focus
+      - discipline_tags
+      - concept_tags
+    sort:
+      - property: published_at
+        direction: DESC
+    cardSize: medium
+    image: note.cover
+    imageFit: cover
+    imageAspectRatio: 16:9
+  - type: cards
+    name: 按工作室
+    groupBy:
+      property: studio
+      direction: ASC
+    order:
+      - file.name
+      - discipline_tags
+      - concept_tags
+      - observation_focus
+    sort:
+      - property: file.name
+        direction: ASC
+    cardSize: medium
+    image: note.cover
+    imageFit: cover
+    imageAspectRatio: 16:9
+  - type: cards
+    name: 本周精选
+    filters:
+      and:
+        - editorial_status == "本周精选"
+    order:
+      - file.name
+      - studio
+      - editor_comment
+      - observation_focus
+      - discipline_tags
+      - concept_tags
+    sort:
+      - property: featured_order
+        direction: ASC
+    cardSize: medium
+    image: note.cover
+    imageFit: cover
+    imageAspectRatio: 16:9
+  - type: table
+    name: 未读
+    filters:
+      and:
+        - read != true
+    order:
+      - read
+      - file.name
+      - studio
+      - published_at
+      - source_url
+    sort:
+      - property: published_at
+        direction: DESC
+  - type: cards
+    name: 已读
+    filters:
+      and:
+        - read == true
+    order:
+      - file.name
+      - studio
+      - project_intro
+      - observation_focus
+      - discipline_tags
+      - concept_tags
+    sort:
+      - property: published_at
+        direction: DESC
+    cardSize: medium
+    image: note.cover
+    imageFit: cover
+    imageAspectRatio: 16:9
