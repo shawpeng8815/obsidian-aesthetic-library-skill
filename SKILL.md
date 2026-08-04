@@ -37,6 +37,19 @@ python3 "/absolute/path/to/library/_系统/manage.py" sync --workers 10
 
 Use `fix` only to reconcile generated content-card bodies with properties. It preserves a section beginning with `## 我的笔记`. Back up an existing library before broad migrations.
 
+## Set up weekly automation
+
+When the user asks for automatic subscriptions or weekly updates, explicitly create a recurring weekly task with the automation mechanism available in the current Codex environment. Do not imply that installing the Skill creates a schedule.
+
+Configure the weekly task to:
+
+1. Run `check`, then `sync --workers 10` from the library's own `_系统/manage.py`.
+2. Inspect the new-candidate and source-change reports.
+3. Apply the editorial workflow to verified candidates.
+4. Prepare a featured issue with no fixed minimum: allow up to 15 projects for the first issue and up to 10 for later issues.
+
+Keep source collection, AI editorial judgment, and public issue generation as distinct stages. Require explicit user approval before creating or changing the recurring schedule.
+
 ## Add or change sources
 
 Read [references/library-schema.md](references/library-schema.md) before changing fields or Base filters.
